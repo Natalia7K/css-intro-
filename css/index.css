@@ -1,8 +1,4 @@
-.btn-info {
-    background-color: brown;
-    border-color: brown;
-}
-
-.bg-light {
-    background-color: aqua !important;
-}
+@import url(common.css);
+@import url(index-header.css);
+@import url(index-products.css);
+@import url(index-footer.css);
